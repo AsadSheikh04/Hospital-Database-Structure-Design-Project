@@ -1,2 +1,5 @@
 # Hospital-Database-Structure-Design-Project
-Created a hospital database using MySQL based on an ERD, including tables for admissions, reception, physicians, rooms, patients, and insurance with proper keys, data types, and constraints.
+- Designed a hospital database structure based on an ERD.
+- Created tables for admissions, reception, physicians, rooms, patients, and insurance.
+- Defined tables using MySQL, ensuring proper primary/foreign keys, data types, constraints, and column names.
+- Developed and submitted an SQL script file with all necessary CREATE TABLE commands for database creation.
